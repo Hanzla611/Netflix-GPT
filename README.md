@@ -3,8 +3,13 @@
 - React + Vite
 - Bootstrap
 - Tailwind css
+- Routing
 - Header
 - Login Form
+- Sign In Form
+- Sign Up Form
+- Form Validation
+- useRef Hook
 
 # Features
 
