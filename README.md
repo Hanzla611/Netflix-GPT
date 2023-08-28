@@ -2,6 +2,9 @@
 
 - React + Vite
 - Bootstrap
+- Tailwind css
+- Header
+- Login Form
 
 # Features
 
