@@ -10,6 +10,12 @@
 - Sign Up Form
 - Form Validation
 - useRef Hook
+- Firebase setup
+- Deploying our app to production
+- Create User in firebase
+- Implement Signin and Sign Up flow
+- Implement Redux
+- User Authentication
 
 # Features
 
