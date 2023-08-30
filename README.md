@@ -16,6 +16,9 @@
 - Implement Signin and Sign Up flow
 - Implement Redux
 - User Authentication
+- Bug-Fix
+    - If user is not authenticated redirect him to login page
+    - If user is authenticated redirect him to browse page
 
 # Features
 
