@@ -19,6 +19,10 @@
 - Bug-Fix
     - If user is not authenticated redirect him to login page
     - If user is authenticated redirect him to browse page
+- Register TMDB API
+- Create an API call for Now Playing    
+- Now Playing movie list from API
+- Custom Hook for Now Playing Movies API
 
 # Features
 
