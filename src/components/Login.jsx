@@ -10,7 +10,7 @@ import { auth } from "../utils/firebase";
 import { useNavigate } from "react-router-dom";
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
-import { userAvatar } from "../utils/constants";
+import { BG_URL, userAvatar } from "../utils/constants";
 
 function Login() {
   const navigate = useNavigate();
@@ -88,7 +88,7 @@ function Login() {
       <div className="absolute w-screen overflow-hidden">
         <img
           className="w-screen overflow-hidden"
-          src="https://assets.nflxext.com/ffe/siteui/vlv3/00103100-5b45-4d4f-af32-342649f1bda5/64774cd8-5c3a-4823-a0bb-1610d6971bd4/IN-en-20230821-popsignuptwoweeks-perspective_alpha_website_large.jpg"
+          src={BG_URL}
           alt="logo"
         />
       </div>
